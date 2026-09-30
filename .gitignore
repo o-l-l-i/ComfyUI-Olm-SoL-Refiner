@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.cache/
+scratch/
+results/
+resources/
+*.safetensors
+*.mp4
+*.pt
+*.log
+DEVELOPMENT.md

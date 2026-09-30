@@ -1,0 +1,5 @@
+diffusers @ https://github.com/huggingface/diffusers/archive/e0abab83b5df05de9e7abd788643c1a7c1e42e28.zip
+transformers>=5.12.1,<6
+accelerate>=1.14
+safetensors>=0.8
+triton-windows>=3.7,<3.8; sys_platform == 'win32'
